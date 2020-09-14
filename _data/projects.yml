@@ -1,41 +1,12 @@
-- name: AWS Solutions Architect Professional
-  image: images/sapro.png
-  link: sproogen.github.io/modern-resume-theme
+- layout: top-middle
+  name: Cross District Transportation Scheduling Application
+  link: cdtsa.ohio.edu
   quote: >
-    A modern simple static resume template and theme. Powered by Jekyll and GitHub pages.
-
-- name: AWS Devops professional
-  link: www.itsgoingto.be
-  quote: >
-    itsgoingto.be is a simple voting site where a user can ask a question or topic top put to a vote. This question
-    can then be shared with their friends/colleagues to vote on things like 'Where should we go for lunch?'.
-
-- name: Mordern Resume Theme
-  link: sproogen.github.io/modern-resume-theme
-  github: sproogen/modern-resume-theme
-  quote: >
-    A modern simple static resume template and theme. Powered by Jekyll and GitHub pages.
-
-- name: itsgoingto.be
-  link: www.itsgoingto.be
-  github: sproogen/itsgoingto.be
-  quote: >
-    itsgoingto.be is a simple voting site where a user can ask a question or topic top put to a vote. This question
-    can then be shared with their friends/colleagues to vote on things like 'Where should we go for lunch?'.
-
-- name: Mordern Resume Theme
-  link: sproogen.github.io/modern-resume-theme
-  github: sproogen/modern-resume-theme
-  quote: >
-    A modern simple static resume template and theme. Powered by Jekyll and GitHub pages.
-
-- name: itsgoingto.be
-  link: www.itsgoingto.be
-  github: sproogen/itsgoingto.be
-  quote: >
-    itsgoingto.be is a simple voting site where a user can ask a question or topic top put to a vote. This question
-    can then be shared with their friends/colleagues to vote on things like 'Where should we go for lunch?'.    
-
+    A web-based application for Cross District Transportation Scheduling (CD-TSA) for 20 school districts and one board of developmental disabilities (DD) in Ohio. .
+  description: |
+    - Responsible for requirements analysis, system design, database modeling, implementation, testing, and documenting the deployment user guide.
+    - As a scrum master, facilitated Sprint Planning, Release Planning, Mind Mapping Exercises, Stand-Ups and Spring Retrospective.
+    - Responsible for database design, data modeling and automating the database refresh process. Developed ETL scripts on Pentaho to load the data for new participating schools.
 
 # - name: Forecastr
 #   link: www.forecastr.co.uk
