@@ -1,30 +1,41 @@
-- layout: top-middle
-  name: Mordern Resume Theme
+- name: AWS Solutions Architect Professional
+  image: images/sapro.png
+  link: sproogen.github.io/modern-resume-theme
+  quote: >
+    A modern simple static resume template and theme. Powered by Jekyll and GitHub pages.
+
+- name: AWS Devops professional
+  link: www.itsgoingto.be
+  quote: >
+    itsgoingto.be is a simple voting site where a user can ask a question or topic top put to a vote. This question
+    can then be shared with their friends/colleagues to vote on things like 'Where should we go for lunch?'.
+
+- name: Mordern Resume Theme
   link: sproogen.github.io/modern-resume-theme
   github: sproogen/modern-resume-theme
   quote: >
     A modern simple static resume template and theme. Powered by Jekyll and GitHub pages.
-  description: |
-    This is a <mark>Jekyll</mark> theme that I have recently created, in fact it is what this resume has been built with.
-    I decided I wanted to learn how to create a fully open source project and thought that this would be the perfect project to do this with.
-    It has allowed me to share something I have created in a way that will be helpful for lots of people while also learning from this myself.
 
-- layout: top-middle
-  name: itsgoingto.be
+- name: itsgoingto.be
   link: www.itsgoingto.be
   github: sproogen/itsgoingto.be
   quote: >
     itsgoingto.be is a simple voting site where a user can ask a question or topic top put to a vote. This question
     can then be shared with their friends/colleagues to vote on things like 'Where should we go for lunch?'.
-  description: |
-    The API for this site has been build using <mark>Symfony</mark> while the front end is a <mark>React</mark>/<mark>Redux</mark> app.
-    I have used <mark>Docker</mark> to set up a development environment and <mark>Heroku</mark> to deploy and host the site. I have
-    a suite of unit and API tests for the backend and unit tests for the front end.
 
-    I have been using this project as a way to increase many of my skills and also learn new things. I have particually
-    enjoyed managing my own project and designing my own architecture and implementing this to a high standard.
+- name: Mordern Resume Theme
+  link: sproogen.github.io/modern-resume-theme
+  github: sproogen/modern-resume-theme
+  quote: >
+    A modern simple static resume template and theme. Powered by Jekyll and GitHub pages.
 
-    Feel free to check out the whole project on GitHub to get a feel for how I work [here](https://github.com/sproogen/itsgoingto.be).
+- name: itsgoingto.be
+  link: www.itsgoingto.be
+  github: sproogen/itsgoingto.be
+  quote: >
+    itsgoingto.be is a simple voting site where a user can ask a question or topic top put to a vote. This question
+    can then be shared with their friends/colleagues to vote on things like 'Where should we go for lunch?'.    
+
 
 # - name: Forecastr
 #   link: www.forecastr.co.uk
