@@ -1,18 +1,21 @@
-- company: Royal Bank of Scotland
-  dates: August 2017 - Present
-  job_title: Software Engineer
+- company: Amazon Web Services
+  dates: July 2017 - Present
+  job_title: Senior Cloud Engineer
   description: |
-    I am currently working at The Royal Bank of Scotland as a full stack engineer focusing mostly on the front end of a corporate banking product.
-    Working as part of a scrum team consiting of 5 developers, 2 testers and a PO/BA I have the oportunity to help drive the team forwards and
-    work with the PO defining what we are building.
+    - Key contributor in the design, development and support of global/enterprise companies that are running 
+    cloud-based mission-critical software applications, systems and services by working directly with 
+    engineering and technology teams and utilizing technologies such as Amazon Web Services 
+    to ensure any software issues are resolved as quickly as possible. 
+    
+    - Aid the customer as an expert on the full line of Amazon Web Services products and 
+    the customer’s architecture in support of strategy questions, project planning, launch, and ongoing operations. 
 
-    I spend most of my time working on a specifc area of a large application that our team take ownership over. The front end is a <mark>React</mark> app
-    that talks to an API built using a collection of <mark>Java</mark> microservices. I have spent time working in multiple parts of the stack including
-    helping to define our front end architecure to follow best practices to implementing PDF and CSV export in a microservice.
+    - Suggest recommendations on how new AWS offerings fit in the company architecture 
+    and provide proactive advice through all phases of the implementation lifecycle. 
 
-    I enjoy learning about all areas of our application which allows me to be a go-to person for knowledge and queries within my team and the other teams
-    in the office. I am always looking to suggest improvements and challenge what and how we are working to make sure we are delivering the best service
-    to the customers while also developing to the highest standards.
+    - Apply advanced troubleshooting techniques to provide unique solutions to our customers' individual needs. 
+
+    - Field and manage technical customer issues via phone, chat and email and drive customer communication during critical events. 
 
 - layout: right
   company: Simitive
